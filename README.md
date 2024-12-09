@@ -1,16 +1,25 @@
-## Hi there 👋
+![BG](https://github.com/developer-vitoria-luiza/developer-vitoria-luiza/assets/165946610/89d98f58-c370-4ba5-829b-25807506044b)
 
-<!--
-**VitoriaLuizaDeveloper/VitoriaLuizaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wave: | Hello World
+<br/>
+:computer: | Front-end Engineer | Full Stack Developer
+<br/>
+:mortar_board: | Bacharel em Sistemas de informação
+<br/>
+:gemini: | 24 anos
+<br/>
+:heart_eyes: | Apaixonada por tecnologia
 
-Here are some ideas to get you started:
+## 🚀 Habilidades Técnicas:
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,php,wordpress,nodejs,nestjs,react,next,vite,tailwind,mysql,cypress,vitest)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,insomnia)](https://skillicons.dev)<br><br>
+
+### ⚙️ GitHub Analytics
+<p>
+<a href="https://github.com/developer-vitoria-luiza">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=developer-vitoria-luiza&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+
